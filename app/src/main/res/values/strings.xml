@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GithubApp</string>
+    <string name="searchbar_hint">Mau cari siapa?</string>
+    <string name="following">%1$s Following</string>
+    <string name="followers">%1$s Followers</string>
+    <string name="tab_text_1">Following</string>
+    <string name="tab_text_2">Followers</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="avatar">Avatar</string>
+    <string name="show_users">Showing %1$s users</string>
+    <string name="show_user">Showing %1$s user</string>
+    <string name="not_found_user">User not found</string>
+    <string name="icon_location">Icon Location</string>
+    <string name="link">Link to profile</string>
+</resources>
